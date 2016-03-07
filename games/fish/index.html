@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>hota fish</title>
+    <link rel="stylesheet" href="style.css">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+  </head>
+  <body>
+    <div id="progress-set">
+      <div class="progress" id="progress">
+        <span id="progress-val" class="progress-val">0%</span>
+        <span class="progress-bar">
+          <span class="progress-in" style="width: 0%" id="progress-in"></span>
+        </span>
+      </div>
+      <div id="progress-text">Downloading Game Assets...</div>
+    </div>
+    <canvas id='game'></canvas>
+    <script>
+      var server_address = 'ws://games.hotagames.com:8888';
+    </script>
+    <script src="pixi.js"></script>
+    <script src="screenfull.min.js"></script>
+    <script src="howler.js"></script>
+    <script src="fish.js"></script>
+  </body>
+</html>
