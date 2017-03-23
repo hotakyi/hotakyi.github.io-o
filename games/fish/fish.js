@@ -1,1 +1,922 @@
-var _0x1a38=["11 6F=17(){11 D='6k://6n.6T.77:7U';11 E=17 5L(){1a(!5p.5o){2d 26}11 c=[];11 d=26;5p.5o.66(1).5n(\"&\").6Q(17(a){11 b=a.5n('=');1a(b[0]==='4g'){2d d=b[1]}});2d d}();1a(E===26){3B.3C('5m 4g');2O('5m 4g');2d}11 F=6R;11 G=6U;11 H=1;11 I='2i/2S/';11 J=['5d.1w','5c.1w','5b.1w','5a.58','6Z.3s','7l.3s','7y.3s','7K.3s',];11 K='2i/8d/';11 L=['4d','57','56'];11 M=['6K','6L','6N','6P'];11 N=53;11 O=10;11 P=10;11 Q=79;11 R=33;11 S=[['7B','7E','4r',3X,0.8,1],['5z','5H','4r',3X,1.2,5],['5P','62','65',4V,1.5,10],['68','69','6i',4V,1.6,10]];11 T=0.25;11 U=6M;11 V=[['6O',12,1H,0.5,5,0.25,60,25],['6S',16,1H,0.5,3,0.25,60,25],['6V',24,1H,0.5,3,0.25,80,32],['78',24,1H,0.5,10,0.25,70,43],['7d',24,1H,0.5,3,0.25,80,54],['7g',25,1H,0.5,6,0.25,2f,70],['7p',60,1H,0.5,3,0.25,2f,40],['7x',20,1H,0.5,6,0.25,2k,55],['7C',24,1H,0.5,3,0.25,1H,47],['7D',16,1H,0.25,7,0.25,7F,7G],['7J',24,2k,0.5,4,0.25,7L,80],['7M',12,2k,0.7N,4,0.25,2k,1H],['7T',24,2k,0.25,4,0.25,35,70],['81',20,2k,0.5,3,0.25,4U,88],['8f',24,2k,0.25,6,0.25,35,35],['8i',24,2f,0.5,6,0.25,5t,80],['5u',24,2f,0.5,4,0.25,5v,2f],['5y',9,2f,0.1,3,0.25,5A,5D],['5G',9,60,0.2,4,0.1,4T,2g],['5J',20,30,0.25,20,0.25,5M,2g],['5N',15,60,0.25,9,0.1,53,5Q],['5R',15,2f,0.15,15,0.5,35,2g],['5U',8,2f,0.15,8,0.5,4R,4R]];11 W=[0.8,0.25,5];11 X={27:'3a 6a 2E',2B:'#6l',2A:'#6G',2u:3,3K:1d,3M:'#2r',3O:1e.1y/6,3U:6};11 Y=2e.2P(\"6W\");Y.6X('6Y',17(e){1a(e.71===2){e.73();2d 1j}},1j);11 Z=[];11 2K=[];11 44=[];11 46=[];11 1L;11 1F=0;11 1U=[];11 1i=[];11 3b;11 3e=0;11 1N=[];11 2l=[];11 4j=[];11 4k=[];11 1z;11 1u;11 3n=0;11 1W;11 2W=0;11 3F=0;11 23=1d;11 3H;11 1J;11 3L=0;11 3u=1j;11 2Z=1d;11 31=2e.2P(\"2w-1E\");11 1Z;11 2p=17 2p(a){11 b='\u53ef\u4f9b\u63d0\u53d6\u79ef\u5206: ';1a(a===8g){b+='--------'}1C{b+=a}1Z.1E=b};11 34=14 18.1G();11 1x=14 18.1G();34.1c(1x);11 42=14 18.1G();1x.1c(42);11 22=14 18.1G();1x.1c(22);11 1B=14 18.1G();1x.1c(1B);11 3r=14 18.1G();1x.1c(3r);11 3q=14 18.1G();1x.1c(3q);11 2H=14 18.1G();1x.1c(2H);11 2o=14 18.1G();1x.1c(2o);11 2m=14 18.1G();34.1c(2m);11 1X=14 18.1G();34.1c(1X);11 1D=14 18.1G();1X.1c(1D);11 3A=14 18.4O.5Y();3A.5Z=0.8;3A.61=30;1B.4O=[3A];11 2T=18.64;11 4m=1j;11 4n=1j;11 4o=0;1k(11 i=0;i<J.1q;i++){2T.6j(I+J[i])}2T.1V(\"2w\",17(a,b){4o=a.2w;2Q()});2T.1V('6m',17(a,b){4m=1d;31.2G=\"6q 6w 6x 2i 6y 1F 6z, 6A 6B 6C 6D 6E 8o 4M 6H 6I.\"});2T.6J(17(){4n=1d;2Q()});11 36=0;11 3I={};11 3J=17 3J(){36+=1;2Q()};1k(11 i=0;i<L.1q;i++){3I[L[i]]=14 5r({4L:[K+L[i]+'.4K',K+L[i]+'.4I'],4H:3J})};11 3p;11 2t=17 2t(a){1a(23){3I[a].1R()}};11 3T=1j;11 2Q=17 2Q(){1a(!4m){1a(36===L.1q&&4n&&3T===1j){3T=1d;3f(2g);3V()}1C{11 a=4o*0.9+36/(L.1q)*2g*0.1;3f(a)}}};11 4F=2e.2P(\"2w-3W\");11 4E=2e.2P(\"2w-72\");11 3f=17 3f(a){11 b=1e.2y(a)+'%';4E.2G=b;4F.2N.1m=b};11 38=17 38(){11 a=4D.7a;11 b=4D.7c;11 c=a/F;11 d=1e.2y(G*c);1a(b>=d){1W.2M.2N.1m=a+'3y';1W.2M.2N.1r=d+'3y'}1C{c=b/G;11 e=1e.2y(F*c);1W.2M.2N.1m=e+'3y';1W.2M.2N.1r=b+'3y'}};11 3V=17 3V(){31.2G='7e 7f...';1x.1M=1d;1x.1V('7i',49);1x.1V('7n',2F);1x.1V('7s',2F);1x.1V('7t',4b);1x.1V('7u',2F);1x.1V('7v',2F);1x.1V('7w',4c);11 m={27:'3a 7z 7A 2E',2B:'#4e',2A:'#4C',2u:5,3K:1d,3M:'#2r',3O:1e.1y/6,3U:6,4B:1d,4z:4y};11 n=14 18.1O(\"\u5168\u5c4f\",m);n.13.x=20;n.13.y=20;n.1M=1d;n.28=n.29=17(){1a(4x.7O){4x.7S()}};2m.1c(n);1D.1M=1d;11 o=14 18.2a.39('2i/2S/5d.1w');o.1m*=0.5;o.1r*=0.5;o.13.x=86;o.13.y=8c;o.1M=1d;o.28=o.29=17(){1a(1D.1o){1D.1o=1j}1C{2p();1D.1o=1d;1z.1S(4)}};2m.1c(o);11 p=14 18.3g();p.3m(5s);p.3o(0,0,3X,4T,50);p.3t();p.13.x=5w;p.13.y=5x;1D.1c(p);11 q=14 18.2a.39('2i/2S/5b.1w');q.1m*=0.75;q.1r*=0.75;q.1b.x=0.5;q.1b.y=0.5;q.13.x=5B;q.13.y=5C;1D.1c(q);11 r={27:'3a 5E 2E',2B:'#4C',2A:'#2r',2u:5,4B:1d,4z:4y};1Z=14 18.1O(\"\",r);1Z.1b.x=0.5;1Z.1b.y=0.5;1Z.13.x=F/2;1Z.13.y=5F;1D.1c(1Z);11 s=14 18.3g();s.1M=1d;s.3m(3P);s.3o(0,0,3Q,50,25);s.3t();s.13.x=3R;s.13.y=5K;s.28=s.29=17(){1z.1S(5,4w)};1D.1c(s);11 t=14 18.1O(\"4w\",r);t.1b.x=0.5;t.1b.y=0.5;t.13.x=s.1m/2;t.13.y=s.1r/2;s.1c(t);11 u=14 18.3g();u.1M=1d;u.3m(3P);u.3o(0,0,3Q,50,25);u.3t();u.13.x=3R;u.13.y=5O;u.28=u.29=17(){1z.1S(5,4v)};1D.1c(u);11 v=14 18.1O(\"4v\",r);v.1b.x=0.5;v.1b.y=0.5;v.13.x=u.1m/2;v.13.y=u.1r/2;u.1c(v);11 w=14 18.3g();w.1M=1d;w.3m(3P);w.3o(0,0,3Q,50,25);w.3t();w.13.x=3R;w.13.y=5S;w.28=w.29=17(){1z.1S(5,-1)};1D.1c(w);11 x=14 18.1O(\"\u5168\u90e8\",r);x.1b.x=0.5;x.1b.y=0.5;x.13.x=w.1m/2;x.13.y=w.1r/2;w.1c(x);11 y=14 18.2a.39('2i/2S/5c.1w');y.1m*=0.5;y.1r*=0.5;y.1b.x=0.5;y.1b.y=0.5;y.13.x=F/2;y.13.y=5T;y.1M=1d;y.28=y.29=17(){1D.1o=1j};1D.1c(y);11 z=14 18.1O(\"\u6355\u9c7c\u79ef\u5206\u4f1a\u4e8e\u6e38\u620f\u7ed3\u675f\u540e\u81ea\u52a8\u8fd4\u56de\u5230\u5e10\u53f7\u4e2d\",{27:'3a 5V 2E',2B:'#5W',2A:'#2r',2u:2});z.1b.x=0.5;z.1b.y=0.5;z.13.x=F/2;z.13.y=5X;1D.1c(z);11 A=14 18.2a.39('2i/2S/5a.58');42.1c(A);1k(11 i=1;i<6;i++){Z.1s(18.2j.1I('63'+i+'.1w'))}1k(11 i=0;i<S.1q;i++){11 B=[];1k(11 j=0;j<6;j++){B.1s(18.2j.1I(S[i][0]+'3i'+j+'.1w'))}B.1s(18.2j.1I(S[i][0]+'67.1w'));2K.1s(B);B=[];1k(11 j=0;j<10;j++){11 C=[];1k(11 k=0;k<2;k++){C.1s(18.2j.1I(S[i][1]+(j+1)+'3i'+k+'.1w'))}B.1s(C)}46.1s(B);B=[];1k(11 j=0;j<12;j++){B.1s(18.2j.1I(S[i][2]+'3i'+j+'.1w'))}44.1s(B)}1k(11 i=0;i<V.1q;i++){11 B=[];1k(11 j=0;j<V[i][1];j++){B.1s(18.2j.1I(V[i][0]+'3i'+j+'.1w'))}4j.1s(B);B=[];1k(11 l=0;l<V[i][4];l++){B.1s(18.2j.1I(V[i][0]+'6b'+l+'.1w'))}4k.1s(B)}31.2G='6c 6d 6e...';1z=14 6f(D);1z.6g='6h';1z.1S=17 1S(a,b){11 c;3k(a){1h 1:c=14 2V(2);11 d=14 2s(c);d.1P(0,1);d.1P(0,b);1g;1h 2:c=14 2V(7);11 d=14 2s(c);d.1P(0,2);d.1P(1,b[0]);d.1P(2,b[1]);d.6o(3,b[2]);1g;1h 3:c=14 2V(3);11 d=14 2s(c);d.1P(0,3);d.1P(1,b[0]);d.1P(2,b[1]);1g;1h 4:c=14 2V(1);11 d=14 2s(c);d.1P(0,4);1g;1h 5:c=14 2V(5);11 d=14 2s(c);d.1P(0,5);d.6p(1,b);1g}1z.4u(c)};1z.6r=17(){1a(2O('6s 6t.')){}1C{}};1z.6u=17(){1z.4u(E)};1z.6v=17(a){3B.3C(a);a=4t(a.1p);3k(a.2X){1h 0:4i(a.1p);1g;1h 1:1i[a.1p.19].1o=1d;1U[a.1p.19].1E=1L[0];1U[a.1p.19].1o=1d;2l[a.1p.19].1E=a.1p.4W;2l[a.1p.19].1o=1d;1N[a.1p.19].1E=a.1p.1t;1N[a.1p.19].1o=1d;1g;1h 2:1i[a.19].1o=1j;1U[a.19].1o=1j;2l[a.19].1o=1j;1N[a.19].1o=1j;1i[a.19].2h=[];1g;1h 3:11 b=a.4s;11 c=14 18.2x.2q(4j[b]);c.1Q=a.1Q;c.1T=b;c.4q=V[b][6]/2;c.4l=V[b][7]/2;c.1b.x=0.5;c.1b.y=0.5;c.1m*=H;c.1r*=H;c.13.x=a.x;c.13.y=a.y;c.21=1e.2z(a.2C)*V[b][2]/3c;c.2c=1e.2n(a.2C)*V[b][2]/3c;c.1l=-a.2C+(1e.1y/2);c.2n=1e.2n(c.1l*-1);c.2z=1e.2z(c.1l*-1);c.2I=V[b][3];c.1R();1B.1c(c);1g;1h 4:11 d=1e.2y(a.2R/3b);1i[a.19].1T=d;1i[a.19].4A=2K[d];1U[a.19].1E=1L[a.2R];2t('4d');1g;1h 5:1N[a.19].1E=a.1t;1a(a.19===1u){1t=a.1t}1C{4f(a.19,a.2C)}1g;1h 6:1N[a.19].1E=a.1t;1a(a.19===1u){1t=a.1t}1k(11 f=0;f<1B.1v.1q;f++){1a(1B.1v[f].1Q===a.1Q){11 c=1B.1v[f];2t('56');1B.2b(c);1a(23){11 e=14 18.2x.2q(4k[c.1T]);e.1b.x=0.5;e.1b.y=0.5;e.1m*=H;e.1r*=H;e.13=c.13;e.2I=V[c.1T][5];e.1l=c.1l;e.3d=1j;e.4G=17(){3r.2b(1n)};e.1R();3r.1c(e);11 g=14 18.2x.2q(Z);g.13.x=c.13.x;g.13.y=c.13.y;g.74=1i[a.19].13.x;g.76=1i[a.19].13.y;g.21=(1i[a.19].13.x-g.13.x)/4J;g.2c=(1i[a.19].13.y-g.13.y)/4J;g.1Y=0;g.1b.x=0.5;g.1b.y=0.5;g.1m*=H*W[0];g.1r*=H*W[0];g.2I=W[1];g.1R();g.3x=17(){1a(1n.1Y<45){++1n.1Y;1n.13.x+=1n.21*1n.1Y;1n.13.y+=1n.2c*1n.1Y}1C{2H.2b(1n)}};2H.1c(g);11 h=14 18.1O(a.4N,X);h.7b=2U.2L();h.13.x=c.13.x;h.13.y=c.13.y-50;h.1b.x=0.5;h.1b.y=0.5;h.4P=h.1m*2/30;h.4Q=-h.1r/30;h.1Y=0;h.3x=17(){1a(1n.1Y<30){++1n.1Y;1n.1m+=1n.4P;1n.1r+=1n.4Q}1C{2o.2b(1n)}};2o.1c(h)}1g}}1g;1h 7:2p(a.2J);1g;1h 8:3k(a.4S){1h 0:2p(a.2J);2O('\u4ea4\u6613\u6210\u529f');1g;1h 1:2O('\u7a4d\u5206\u4e0d\u8db3');1g;4a:2O('7h')}1g;1h 9:1N[a.19].1E=a.1t;1a(a.19===1u){1t=a.1t}1g;1h 2g:2e.41.2G='<27 7j=7k>'+a.1p+'</27>';1g;4a:}}};11 3w=17 3w(){7m(3H);1a(!23){3p.1R();23=1d}11 a=2U.2L();11 b=a-2W;1a(b>P){37(a,b)}3H=7o(48,Q);1W.7q(34);7r(3w)};11 48=17 48(){1a(23){3p.3S();23=1j}11 a=2U.2L();11 b=a-2W;37(a,b)};11 37=17 37(c,d){1k(11 i=0;i<2o.1v.1q;i++){2o.1v[i].3x()}1k(11 i=0;i<2H.1v.1q;i++){2H.1v[i].3x()}1k(11 i=0;i<22.1v.1q;i++){11 e=22.1v[i];e.13.x+=e.21*d;e.13.y+=e.2c*d;1a(e.13.x>F){e.13.x=2*F-e.13.x;e.21*=-1;e.1l*=-1}1C 1a(e.13.x<0){e.13.x*=-1;e.21*=-1;e.1l*=-1}1C 1a(e.13.y>G){e.13.y=2*G-e.13.y;e.2c*=-1;e.1l=-e.1l+1e.1y}1C 1a(e.13.y<0){e.13.y*=-1;e.2c*=-1;e.1l=-e.1l+1e.1y}}1k(11 f 3W 1B.1v){1a(1B.1v.4X(f)){11 g=1B.1v[f];g.13.x+=g.21*d;g.13.y+=g.2c*d;1a(g.13.x>F+U||g.13.x<0-U||g.13.y>G+U||g.13.y<0-U){1B.2b(g)}}}1a(c>3F){1k(11 f 3W 1B.1v){1a(1B.1v.4X(f)){11 g=1B.1v[f];1k(11 h=0;h<22.1v.1q;h++){11 e=22.1v[h];11 j=g.2n*(e.13.x-g.13.x)-g.2z*(e.13.y-g.13.y)+g.13.x;11 k=g.2z*(e.13.x-g.13.x)+g.2n*(e.13.y-g.13.y)+g.13.y;11 l;11 m=g.13.x-g.4q;1a(j<m){l=m}1C{11 n=g.13.x+g.4q;1a(j>n){l=n}1C{l=j}}11 o;11 p=g.13.y-g.4l;1a(k<p){o=p}1C{11 q=g.13.y+g.4l;1a(k>q){o=q}1C{o=k}}11 a=1e.4Y(j-l);11 b=1e.4Y(k-o);1a((a*a)+(b*b)<e.3G*e.3G){22.2b(e);1a(23){11 r=14 18.2x.2q(44[e.1T]);r.1b.x=0.5;r.1b.y=0.5;r.1m*=H;r.1r*=H;r.13=e.13;r.2I=T;r.1l=e.1l;r.3d=1j;r.4G=17(){3q.2b(1n)};r.1R();3q.1c(r)}1a(e.1Q!==26){3e-=1;3E(e,g)}}}}}3F=c+R}3D(c);1a(2Z){1J=1W.4Z.51.52.3h}11 s=1e.4p(1J.y-1i[1u].13.y,1J.x-1i[1u].13.x);1i[1u].1l=s+1e.1y/2;1a(3u){3j()}2W=c};11 4c=17 4c(a){1J=a.1p.3h};11 4b=17 4b(a){2Z=1j;1J=a.1p.3h;11 b=1e.4p(1J.y-1i[1u].13.y,1J.x-1i[1u].13.x);1i[1u].1l=b+1e.1y/2;3l()};11 49=17 49(){2Z=1d;3l()};11 3l=17 3l(){3u=1d;3j()};11 2F=17 2F(){3u=1j};11 3j=17 3j(){11 a=2U.2L();1a(1t>=1L[1F]&&3e<O&&a>3L){3L=a+N;11 b=3N();1t-=1L[1F];1i[1u].59(0);1a(2Z){1J=1W.4Z.51.52.3h}11 c=1e.4p(1J.y-1i[1u].13.y,1J.x-1i[1u].13.x);c=c*-1+1e.1y/2;1z.1S(2,[b,1F,c]);3v(1u,3n,c,b);3e+=1}};11 3E=17 3E(a,b){1z.1S(3,[a.1Q,b.1Q])};11 3z=17 3z(){3n=1e.2y(1F/3b);1i[1u].4A=2K[3n];1U[1u].1E=1L[1F];2t('4d');1z.1S(1,1F)};11 4f=17 4f(a,b){1i[a].2h.1s(b)};11 3D=17 3D(a){1k(11 i=0;i<1i.1q;i++){11 b=1i[i];1a(b.2h.1q!==0&&a>b.4h){b.1l=1e.1y-b.2h[0];b.59(0);3v(i,b.1T,b.2h[0]);b.2h.7H(0,1);b.4h=a+N}}};11 3v=17 3v(a,b,c,d){2t('57');11 e=14 18.2x.2q(46[b][a]);e.1Q=d||26;e.1T=b;e.1l=-c+1e.1y;11 f=1e.2z(c);11 g=1e.2n(c);e.21=f*S[b][3]/3c;e.2c=g*S[b][3]/3c;e.13.x=1i[a].13.x+f*75;e.13.y=1i[a].13.y+g*75;e.1b.x=0.5;e.1b.y=0.5;e.1m*=H*S[b][4];e.1r*=H*S[b][4];e.2I=0.7I;e.3G=S[b][5];e.1R();22.1c(e)};11 4t=17(a){11 b={};11 c=14 2s(a);b.2X=c.1K(0);3k(b.2X){1h 0:1h 1:b.1p=\"\";1k(11 i=1;i<a.5e;i+=2){b.1p+=5f.5g(c.5h(i))}4M{b.1p=5i.7P(b.1p)}7Q(7R){b.2X=-1}1g;1h 2:b.19=c.1K(1);1g;1h 3:b.x=c.5j(1);b.y=c.5j(3);b.2C=c.5k(5);b.4s=c.1K(9);b.1Q=c.1K(10);1g;1h 4:b.19=c.1K(1);b.2R=c.1K(2);1g;1h 5:b.19=c.1K(1);b.1t=c.2D(2);b.2C=c.5k(6);1g;1h 6:b.19=c.1K(1);b.1Q=c.1K(2);b.4N=c.2D(3);b.1t=c.2D(7);1g;1h 7:b.2J=c.2D(1);1g;1h 8:b.4S=c.1K(1);b.2J=c.2D(2);1g;1h 9:b.19=c.1K(1);b.1t=c.2D(2);1g;1h 2g:b.1p=\"\";1k(11 i=1;i<a.5e;i+=2){b.1p+=5f.5g(c.5h(i))}1g;4a:b.2X=-1}2d b};11 4i=17 4i(c){31.2G='7V 7W...';3B.3C('----'+5i.7X(c));2p(c.2J);1u=c.19;1L=c.7Y;3b=1L.1q/S.1q;11 d={27:'7Z 2E',2B:'#4e',5l:'82',2A:'#2r',2u:5};11 e={27:'83 2E',2B:'#4e',5l:'84',2A:'#85',2u:5,3K:1d,3M:'#2r',3O:1e.1y/6,3U:6};1k(11 i=0;i<c.1f;i++){11 f=14 18.2a.1I('87.1w');f.1b.x=0.5;f.1b.y=1;f.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1);f.13.y=i<c.1f/2?G:0;f.1l=i<c.1f/2?0:1e.1y;f.1m*=0.5*H;f.1r*=0.5*H;2m.1c(f);11 g=14 18.2a.1I('89.1w');g.1b.x=0.5;g.1b.y=1;g.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1);g.13.y=i<c.1f/2?G-7:7;g.1l=i<c.1f/2?0:1e.1y;g.1m*=0.5*H;g.1r*=0.5*H;2m.1c(g);11 h=14 18.1O('',d);h.1b.x=0.5;h.1b.y=0.5;h.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1);h.13.y=i<c.1f/2?G-20:20;h.1o=1j;1X.1c(h);1U.1s(h);11 j=14 18.1O('',e);j.1b.y=0.5;j.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1)+75;j.13.y=i<c.1f/2?G-15:40;j.1o=1j;1X.1c(j);1N.1s(j);11 k=14 18.1O('',e);k.1b.y=0.5;k.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1)+75;k.13.y=i<c.1f/2?G-40:15;k.1o=1j;1X.1c(k);2l.1s(k);11 l=14 18.2x.2q(2K[0]);l.1T=0;l.1b.x=0.5;l.1b.y=0.75;l.1m*=0.75*H;l.1r*=0.75*H;l.13.x=F/(c.1f/2+1)*(i%(c.1f/2)+1);l.13.y=i<c.1f/2?G-50:50;l.2I=0.5;l.1l=i<c.1f/2?0:1e.1y;l.1o=1j;l.3d=1j;l.2h=[];l.4h=0;1X.1c(l);1i.1s(l)}11 m=14 18.2a.1I('8a.1w');m.1b.x=0.5;m.1b.y=1;m.13.x=F/(c.1f/2+1)*(c.19%(c.1f/2)+1)+(c.19<c.1f/2?50:-50);m.13.y=c.19<c.1f/2?G+9:-9;m.1l=c.19<c.1f/2?0:1e.1y;m.1m*=0.5*H;m.1r*=0.5*H;m.1M=1d;m.28=m.29=17(){1a(++1F>=1L.1q){1F=0}3z()};1X.1c(m);11 n=14 18.2a.1I('8b.1w');n.1b.x=0.5;n.1b.y=1;n.13.x=F/(c.1f/2+1)*(c.19%(c.1f/2)+1)+(c.19<c.1f/2?-50:50);n.13.y=c.19<c.1f/2?G+9:-9;n.1l=c.19<c.1f/2?0:1e.1y;n.1m*=0.5*H;n.1r*=0.5*H;n.1M=1d;n.28=n.29=17(){1a(--1F<0){1F=1L.1q-1}3z()};1X.1c(n);1k(11 i=0;i<c.1A.1q;i++){1i[c.1A[i].19].1o=1d;1i[c.1A[i].19].1T=c.1A[i].2R;1U[c.1A[i].19].1E=1L[c.1A[i].2R];1U[c.1A[i].19].1o=1d;2l[c.1A[i].19].1E=c.1A[i].4W;2l[c.1A[i].19].1o=1d;1N[c.1A[i].19].1E=c.1A[i].1t;1N[c.1A[i].19].1o=1d;1a(c.1A[i].19===1u){1t=c.1A[i].1t}}3p=14 17(){11 b=1n;b.2Y=[];b.3Z=1j;b.8e=1j;b.2v=26;1k(11 i=0;i<M.1q;i++){14 5r({4L:[K+M[i]+'.4K',K+M[i]+'.4I'],3d:1j,4H:17(){b.5q(1n)},8h:17(){b.3Y()}})}b.5q=17(a){b.2Y.1s(a);1a(!b.3Z){b.3Z=1d;b.3Y()}};b.3Y=17(){11 a=1e.2y(1e.8j()*b.2Y.1q);b.2Y[a].1R();b.2v=b.2Y[a]};b.1R=17(){1a(b.2v!==26){b.2v.1R()}};b.3S=17(){1a(b.2v!==26){b.2v.3S()}}};2m.8k=1d;2e.41.2b(2e.2P(\"2w-8l\"));1W=18.8m(F,G,{2M:Y,8n:1d});2e.41.5I=38;38();2W=2U.2L();3w()};11 3N=17(){11 a=0;2d 17 3N(){1a(++a>4U){a=0}2d a}}()}();","\x7C","\x73\x70\x6C\x69\x74","\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x76\x61\x72\x7C\x7C\x70\x6F\x73\x69\x74\x69\x6F\x6E\x7C\x6E\x65\x77\x7C\x7C\x7C\x66\x75\x6E\x63\x74\x69\x6F\x6E\x7C\x50\x49\x58\x49\x7C\x73\x65\x61\x74\x7C\x69\x66\x7C\x61\x6E\x63\x68\x6F\x72\x7C\x61\x64\x64\x43\x68\x69\x6C\x64\x7C\x74\x72\x75\x65\x7C\x4D\x61\x74\x68\x7C\x6D\x61\x78\x5F\x73\x65\x61\x74\x7C\x62\x72\x65\x61\x6B\x7C\x63\x61\x73\x65\x7C\x62\x67\x7C\x66\x61\x6C\x73\x65\x7C\x66\x6F\x72\x7C\x72\x6F\x74\x61\x74\x69\x6F\x6E\x7C\x77\x69\x64\x74\x68\x7C\x74\x68\x69\x73\x7C\x76\x69\x73\x69\x62\x6C\x65\x7C\x64\x61\x74\x61\x7C\x6C\x65\x6E\x67\x74\x68\x7C\x68\x65\x69\x67\x68\x74\x7C\x70\x75\x73\x68\x7C\x73\x63\x6F\x72\x65\x7C\x62\x6F\x7C\x63\x68\x69\x6C\x64\x72\x65\x6E\x7C\x70\x6E\x67\x7C\x62\x44\x7C\x50\x49\x7C\x62\x6E\x7C\x6D\x65\x6D\x62\x65\x72\x73\x7C\x62\x47\x7C\x65\x6C\x73\x65\x7C\x62\x4E\x7C\x74\x65\x78\x74\x7C\x62\x65\x7C\x43\x6F\x6E\x74\x61\x69\x6E\x65\x72\x7C\x31\x35\x30\x7C\x66\x72\x6F\x6D\x46\x72\x61\x6D\x65\x7C\x62\x76\x7C\x67\x65\x74\x55\x69\x6E\x74\x38\x7C\x62\x64\x7C\x69\x6E\x74\x65\x72\x61\x63\x74\x69\x76\x65\x7C\x62\x6A\x7C\x54\x65\x78\x74\x7C\x73\x65\x74\x55\x69\x6E\x74\x38\x7C\x6B\x65\x79\x7C\x70\x6C\x61\x79\x7C\x65\x6D\x69\x74\x7C\x69\x6E\x64\x65\x78\x7C\x62\x66\x7C\x6F\x6E\x7C\x62\x71\x7C\x62\x4D\x7C\x73\x74\x65\x70\x7C\x62\x41\x7C\x7C\x73\x70\x65\x65\x64\x58\x7C\x62\x46\x7C\x62\x74\x7C\x7C\x7C\x6E\x75\x6C\x6C\x7C\x66\x6F\x6E\x74\x7C\x63\x6C\x69\x63\x6B\x7C\x74\x61\x70\x7C\x53\x70\x72\x69\x74\x65\x7C\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x7C\x73\x70\x65\x65\x64\x59\x7C\x72\x65\x74\x75\x72\x6E\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x39\x30\x7C\x31\x30\x30\x7C\x70\x65\x6E\x64\x69\x6E\x67\x42\x75\x6C\x6C\x65\x74\x73\x7C\x61\x73\x73\x65\x74\x73\x7C\x54\x65\x78\x74\x75\x72\x65\x7C\x31\x32\x30\x7C\x62\x6B\x7C\x62\x4C\x7C\x63\x6F\x73\x7C\x62\x4B\x7C\x62\x42\x7C\x4D\x6F\x76\x69\x65\x43\x6C\x69\x70\x7C\x30\x30\x30\x30\x30\x30\x7C\x44\x61\x74\x61\x56\x69\x65\x77\x7C\x62\x58\x7C\x73\x74\x72\x6F\x6B\x65\x54\x68\x69\x63\x6B\x6E\x65\x73\x73\x7C\x63\x75\x72\x72\x65\x6E\x74\x5F\x6D\x75\x73\x69\x63\x7C\x70\x72\x6F\x67\x72\x65\x73\x73\x7C\x65\x78\x74\x72\x61\x73\x7C\x66\x6C\x6F\x6F\x72\x7C\x73\x69\x6E\x7C\x73\x74\x72\x6F\x6B\x65\x7C\x66\x69\x6C\x6C\x7C\x64\x69\x72\x65\x63\x74\x69\x6F\x6E\x7C\x67\x65\x74\x55\x69\x6E\x74\x33\x32\x7C\x41\x72\x69\x61\x6C\x7C\x63\x6D\x7C\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C\x7C\x62\x4A\x7C\x61\x6E\x69\x6D\x61\x74\x69\x6F\x6E\x53\x70\x65\x65\x64\x7C\x62\x61\x6C\x61\x6E\x63\x65\x7C\x62\x61\x7C\x6E\x6F\x77\x7C\x76\x69\x65\x77\x7C\x73\x74\x79\x6C\x65\x7C\x61\x6C\x65\x72\x74\x7C\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x7C\x62\x5A\x7C\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x7C\x67\x72\x61\x70\x68\x69\x63\x73\x7C\x62\x50\x7C\x44\x61\x74\x65\x7C\x41\x72\x72\x61\x79\x42\x75\x66\x66\x65\x72\x7C\x62\x72\x7C\x74\x79\x70\x65\x7C\x6C\x69\x73\x74\x7C\x62\x79\x7C\x7C\x62\x7A\x7C\x7C\x7C\x62\x43\x7C\x31\x38\x30\x7C\x62\x54\x7C\x63\x68\x7C\x63\x64\x7C\x66\x72\x6F\x6D\x49\x6D\x61\x67\x65\x7C\x62\x6F\x6C\x64\x7C\x62\x68\x7C\x31\x30\x30\x30\x7C\x6C\x6F\x6F\x70\x7C\x62\x69\x7C\x63\x63\x7C\x47\x72\x61\x70\x68\x69\x63\x73\x7C\x67\x6C\x6F\x62\x61\x6C\x7C\x5F\x7C\x63\x6E\x7C\x73\x77\x69\x74\x63\x68\x7C\x63\x6C\x7C\x62\x65\x67\x69\x6E\x46\x69\x6C\x6C\x7C\x62\x70\x7C\x64\x72\x61\x77\x52\x6F\x75\x6E\x64\x65\x64\x52\x65\x63\x74\x7C\x62\x57\x7C\x62\x49\x7C\x62\x48\x7C\x6A\x73\x6F\x6E\x7C\x65\x6E\x64\x46\x69\x6C\x6C\x7C\x62\x78\x7C\x63\x73\x7C\x63\x66\x7C\x75\x70\x64\x61\x74\x65\x7C\x70\x78\x7C\x63\x70\x7C\x62\x4F\x7C\x63\x6F\x6E\x73\x6F\x6C\x65\x7C\x6C\x6F\x67\x7C\x63\x72\x7C\x63\x6F\x7C\x62\x73\x7C\x72\x61\x64\x69\x75\x73\x7C\x62\x75\x7C\x62\x55\x7C\x62\x56\x7C\x64\x72\x6F\x70\x53\x68\x61\x64\x6F\x77\x7C\x62\x77\x7C\x64\x72\x6F\x70\x53\x68\x61\x64\x6F\x77\x43\x6F\x6C\x6F\x72\x7C\x63\x76\x7C\x64\x72\x6F\x70\x53\x68\x61\x64\x6F\x77\x41\x6E\x67\x6C\x65\x7C\x30\x78\x46\x46\x46\x46\x46\x46\x7C\x33\x30\x30\x7C\x35\x33\x33\x7C\x70\x61\x75\x73\x65\x7C\x62\x59\x7C\x64\x72\x6F\x70\x53\x68\x61\x64\x6F\x77\x44\x69\x73\x74\x61\x6E\x63\x65\x7C\x63\x65\x7C\x69\x6E\x7C\x36\x30\x30\x7C\x6E\x65\x78\x74\x7C\x69\x73\x53\x74\x61\x72\x74\x65\x64\x7C\x7C\x62\x6F\x64\x79\x7C\x62\x45\x7C\x7C\x62\x62\x7C\x7C\x62\x63\x7C\x7C\x63\x67\x7C\x63\x6B\x7C\x64\x65\x66\x61\x75\x6C\x74\x7C\x63\x6A\x7C\x63\x69\x7C\x63\x68\x61\x6E\x67\x65\x62\x61\x72\x72\x65\x6C\x7C\x46\x37\x45\x44\x43\x41\x7C\x63\x71\x7C\x74\x6F\x6B\x65\x6E\x7C\x6E\x65\x78\x74\x5F\x66\x69\x72\x65\x7C\x63\x75\x7C\x62\x6C\x7C\x62\x6D\x7C\x62\x6F\x75\x6E\x64\x79\x7C\x62\x51\x7C\x62\x52\x7C\x62\x53\x7C\x61\x74\x61\x6E\x32\x7C\x62\x6F\x75\x6E\x64\x78\x7C\x6E\x65\x74\x32\x7C\x6B\x69\x6E\x64\x7C\x63\x74\x7C\x73\x65\x6E\x64\x7C\x31\x30\x30\x30\x30\x30\x7C\x31\x30\x30\x30\x30\x7C\x73\x63\x72\x65\x65\x6E\x66\x75\x6C\x6C\x7C\x34\x34\x30\x7C\x77\x6F\x72\x64\x57\x72\x61\x70\x57\x69\x64\x74\x68\x7C\x74\x65\x78\x74\x75\x72\x65\x73\x7C\x77\x6F\x72\x64\x57\x72\x61\x70\x7C\x33\x33\x39\x39\x46\x46\x7C\x77\x69\x6E\x64\x6F\x77\x7C\x63\x62\x7C\x63\x61\x7C\x6F\x6E\x43\x6F\x6D\x70\x6C\x65\x74\x65\x7C\x6F\x6E\x6C\x6F\x61\x64\x7C\x6F\x67\x67\x7C\x31\x30\x33\x35\x7C\x6D\x70\x33\x7C\x75\x72\x6C\x73\x7C\x74\x72\x79\x7C\x70\x72\x69\x7A\x65\x7C\x66\x69\x6C\x74\x65\x72\x73\x7C\x63\x68\x61\x6E\x67\x65\x58\x7C\x63\x68\x61\x6E\x67\x65\x59\x7C\x31\x34\x30\x7C\x72\x65\x73\x75\x6C\x74\x7C\x34\x30\x30\x7C\x32\x35\x35\x7C\x39\x30\x30\x7C\x6E\x61\x6D\x65\x7C\x68\x61\x73\x4F\x77\x6E\x50\x72\x6F\x70\x65\x72\x74\x79\x7C\x61\x62\x73\x7C\x70\x6C\x75\x67\x69\x6E\x73\x7C\x7C\x69\x6E\x74\x65\x72\x61\x63\x74\x69\x6F\x6E\x7C\x6D\x6F\x75\x73\x65\x7C\x32\x30\x30\x7C\x7C\x7C\x67\x6F\x6C\x64\x7C\x63\x6F\x6D\x6D\x6F\x6E\x5F\x66\x69\x72\x65\x7C\x6A\x70\x67\x7C\x67\x6F\x74\x6F\x41\x6E\x64\x50\x6C\x61\x79\x7C\x69\x6D\x5F\x62\x67\x7C\x62\x61\x6E\x6B\x5F\x74\x69\x74\x6C\x65\x7C\x62\x74\x5F\x61\x6C\x65\x72\x74\x31\x7C\x62\x74\x5F\x62\x61\x6E\x6B\x7C\x62\x79\x74\x65\x4C\x65\x6E\x67\x74\x68\x7C\x53\x74\x72\x69\x6E\x67\x7C\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x7C\x67\x65\x74\x55\x69\x6E\x74\x31\x36\x7C\x4A\x53\x4F\x4E\x7C\x67\x65\x74\x49\x6E\x74\x31\x36\x7C\x67\x65\x74\x46\x6C\x6F\x61\x74\x33\x32\x7C\x61\x6C\x69\x67\x6E\x7C\x6E\x6F\x7C\x73\x70\x6C\x69\x74\x7C\x73\x65\x61\x72\x63\x68\x7C\x6C\x6F\x63\x61\x74\x69\x6F\x6E\x7C\x6C\x6F\x61\x64\x65\x64\x7C\x48\x6F\x77\x6C\x7C\x30\x78\x33\x33\x39\x39\x46\x46\x7C\x32\x37\x30\x7C\x66\x69\x73\x68\x31\x37\x7C\x32\x39\x30\x7C\x33\x38\x33\x7C\x31\x38\x34\x7C\x66\x69\x73\x68\x31\x38\x7C\x63\x61\x6E\x6E\x6F\x6E\x32\x5F\x6E\x6F\x72\x6D\x7C\x35\x30\x30\x7C\x36\x38\x33\x7C\x31\x39\x30\x7C\x31\x37\x30\x7C\x33\x30\x70\x78\x7C\x32\x37\x35\x7C\x66\x69\x73\x68\x31\x39\x7C\x62\x75\x6C\x6C\x65\x74\x32\x5F\x6E\x6F\x72\x6D\x7C\x6F\x6E\x72\x65\x73\x69\x7A\x65\x7C\x66\x69\x73\x68\x32\x30\x7C\x33\x30\x35\x7C\x67\x65\x74\x54\x6F\x6B\x65\x6E\x7C\x34\x30\x34\x7C\x66\x69\x73\x68\x32\x31\x7C\x33\x36\x35\x7C\x63\x61\x6E\x6E\x6F\x6E\x33\x5F\x6E\x6F\x72\x6D\x7C\x32\x34\x35\x7C\x66\x69\x73\x68\x32\x32\x7C\x34\x32\x35\x7C\x35\x31\x35\x7C\x66\x69\x73\x68\x32\x33\x7C\x32\x30\x70\x78\x7C\x66\x66\x61\x32\x30\x30\x7C\x35\x36\x30\x7C\x44\x72\x6F\x70\x53\x68\x61\x64\x6F\x77\x46\x69\x6C\x74\x65\x72\x7C\x61\x6C\x70\x68\x61\x7C\x7C\x64\x69\x73\x74\x61\x6E\x63\x65\x7C\x62\x75\x6C\x6C\x65\x74\x33\x5F\x6E\x6F\x72\x6D\x7C\x63\x6F\x69\x6E\x30\x7C\x6C\x6F\x61\x64\x65\x72\x7C\x6E\x65\x74\x33\x7C\x73\x75\x62\x73\x74\x72\x7C\x5F\x30\x7C\x63\x61\x6E\x6E\x6F\x6E\x34\x5F\x6E\x6F\x72\x6D\x7C\x62\x75\x6C\x6C\x65\x74\x34\x5F\x6E\x6F\x72\x6D\x7C\x35\x34\x70\x78\x7C\x5F\x64\x5F\x7C\x43\x6F\x6E\x6E\x65\x63\x74\x69\x6E\x67\x7C\x54\x6F\x7C\x53\x65\x72\x76\x65\x72\x7C\x57\x65\x62\x53\x6F\x63\x6B\x65\x74\x7C\x62\x69\x6E\x61\x72\x79\x54\x79\x70\x65\x7C\x61\x72\x72\x61\x79\x62\x75\x66\x66\x65\x72\x7C\x6E\x65\x74\x34\x7C\x61\x64\x64\x7C\x77\x73\x7C\x45\x43\x42\x43\x34\x41\x7C\x65\x72\x72\x6F\x72\x7C\x67\x61\x6D\x65\x73\x7C\x73\x65\x74\x46\x6C\x6F\x61\x74\x33\x32\x7C\x73\x65\x74\x49\x6E\x74\x33\x32\x7C\x53\x6F\x6D\x65\x7C\x6F\x6E\x63\x6C\x6F\x73\x65\x7C\x43\x6F\x6E\x6E\x65\x63\x74\x69\x6F\x6E\x7C\x6C\x6F\x73\x74\x7C\x6F\x6E\x6F\x70\x65\x6E\x7C\x6F\x6E\x6D\x65\x73\x73\x61\x67\x65\x7C\x6F\x66\x7C\x74\x68\x65\x7C\x63\x61\x6E\x6E\x6F\x74\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x65\x64\x7C\x70\x6C\x65\x61\x73\x65\x7C\x63\x68\x65\x63\x6B\x7C\x79\x6F\x75\x72\x7C\x69\x6E\x74\x65\x72\x6E\x65\x74\x7C\x63\x6F\x6E\x6E\x65\x63\x74\x69\x6F\x6E\x7C\x68\x6F\x74\x61\x46\x69\x73\x68\x7C\x46\x46\x38\x43\x30\x30\x7C\x61\x67\x61\x69\x6E\x7C\x6C\x61\x74\x65\x72\x7C\x6C\x6F\x61\x64\x7C\x62\x67\x6D\x30\x7C\x62\x67\x6D\x31\x7C\x32\x35\x31\x7C\x62\x67\x6D\x32\x7C\x66\x69\x73\x68\x31\x7C\x62\x67\x6D\x33\x7C\x66\x6F\x72\x45\x61\x63\x68\x7C\x31\x33\x36\x36\x7C\x66\x69\x73\x68\x32\x7C\x68\x6F\x74\x61\x67\x61\x6D\x65\x73\x7C\x37\x36\x38\x7C\x66\x69\x73\x68\x33\x7C\x67\x61\x6D\x65\x7C\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72\x7C\x63\x6F\x6E\x74\x65\x78\x74\x6D\x65\x6E\x75\x7C\x61\x6C\x6C\x5F\x73\x70\x72\x69\x74\x65\x5F\x68\x64\x5F\x30\x7C\x7C\x62\x75\x74\x74\x6F\x6E\x7C\x76\x61\x6C\x7C\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74\x7C\x74\x61\x72\x67\x65\x74\x58\x7C\x7C\x74\x61\x72\x67\x65\x74\x59\x7C\x63\x6F\x6D\x7C\x66\x69\x73\x68\x34\x7C\x32\x35\x30\x7C\x69\x6E\x6E\x65\x72\x57\x69\x64\x74\x68\x7C\x73\x74\x61\x72\x74\x65\x64\x7C\x69\x6E\x6E\x65\x72\x48\x65\x69\x67\x68\x74\x7C\x66\x69\x73\x68\x35\x7C\x50\x72\x65\x70\x61\x72\x69\x6E\x67\x7C\x41\x73\x73\x65\x74\x73\x7C\x66\x69\x73\x68\x36\x7C\x75\x6E\x6B\x6E\x6F\x77\x6E\x7C\x6D\x6F\x75\x73\x65\x64\x6F\x77\x6E\x7C\x63\x6F\x6C\x6F\x72\x7C\x77\x68\x69\x74\x65\x7C\x61\x6C\x6C\x5F\x73\x70\x72\x69\x74\x65\x5F\x68\x64\x5F\x31\x7C\x63\x6C\x65\x61\x72\x49\x6E\x74\x65\x72\x76\x61\x6C\x7C\x6D\x6F\x75\x73\x65\x75\x70\x7C\x73\x65\x74\x49\x6E\x74\x65\x72\x76\x61\x6C\x7C\x66\x69\x73\x68\x37\x7C\x72\x65\x6E\x64\x65\x72\x7C\x72\x65\x71\x75\x65\x73\x74\x41\x6E\x69\x6D\x61\x74\x69\x6F\x6E\x46\x72\x61\x6D\x65\x7C\x6D\x6F\x75\x73\x65\x75\x70\x6F\x75\x74\x73\x69\x64\x65\x7C\x74\x6F\x75\x63\x68\x73\x74\x61\x72\x74\x7C\x74\x6F\x75\x63\x68\x65\x6E\x64\x7C\x74\x6F\x75\x63\x68\x65\x6E\x64\x6F\x75\x74\x73\x69\x64\x65\x7C\x74\x6F\x75\x63\x68\x6D\x6F\x76\x65\x7C\x66\x69\x73\x68\x38\x7C\x61\x6C\x6C\x5F\x73\x70\x72\x69\x74\x65\x5F\x68\x64\x5F\x32\x7C\x69\x74\x61\x6C\x69\x63\x7C\x33\x36\x70\x78\x7C\x63\x61\x6E\x6E\x6F\x6E\x31\x5F\x6E\x6F\x72\x6D\x7C\x66\x69\x73\x68\x39\x7C\x66\x69\x73\x68\x31\x30\x7C\x62\x75\x6C\x6C\x65\x74\x31\x5F\x6E\x6F\x72\x6D\x7C\x31\x31\x30\x7C\x31\x31\x32\x7C\x73\x70\x6C\x69\x63\x65\x7C\x30\x35\x7C\x66\x69\x73\x68\x31\x31\x7C\x61\x6C\x6C\x5F\x73\x70\x72\x69\x74\x65\x5F\x68\x64\x5F\x33\x7C\x31\x34\x35\x7C\x66\x69\x73\x68\x31\x32\x7C\x31\x32\x35\x7C\x65\x6E\x61\x62\x6C\x65\x64\x7C\x70\x61\x72\x73\x65\x7C\x63\x61\x74\x63\x68\x7C\x65\x72\x72\x7C\x72\x65\x71\x75\x65\x73\x74\x7C\x66\x69\x73\x68\x31\x33\x7C\x38\x38\x38\x38\x7C\x43\x72\x65\x61\x74\x69\x6E\x67\x7C\x72\x6F\x6F\x6D\x7C\x73\x74\x72\x69\x6E\x67\x69\x66\x79\x7C\x63\x61\x6E\x6E\x6F\x6E\x73\x7C\x31\x38\x70\x78\x7C\x7C\x66\x69\x73\x68\x31\x34\x7C\x63\x65\x6E\x74\x65\x72\x7C\x32\x36\x70\x78\x7C\x6C\x65\x66\x74\x7C\x34\x61\x31\x38\x35\x30\x7C\x31\x32\x38\x30\x7C\x62\x6F\x61\x72\x64\x7C\x7C\x62\x6F\x61\x72\x64\x6D\x75\x74\x69\x70\x6C\x65\x7C\x62\x74\x5F\x61\x64\x64\x7C\x62\x74\x5F\x73\x75\x62\x7C\x36\x38\x30\x7C\x73\x6F\x75\x6E\x64\x73\x7C\x69\x73\x50\x6C\x61\x79\x69\x6E\x67\x7C\x66\x69\x73\x68\x31\x35\x7C\x75\x6E\x64\x65\x66\x69\x6E\x65\x64\x7C\x6F\x6E\x65\x6E\x64\x7C\x66\x69\x73\x68\x31\x36\x7C\x72\x61\x6E\x64\x6F\x6D\x7C\x63\x61\x63\x68\x65\x41\x73\x42\x69\x74\x6D\x61\x70\x7C\x73\x65\x74\x7C\x61\x75\x74\x6F\x44\x65\x74\x65\x63\x74\x52\x65\x6E\x64\x65\x72\x65\x72\x7C\x61\x6E\x74\x69\x61\x6C\x69\x61\x73\x7C\x6F\x72","","\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65","\x72\x65\x70\x6C\x61\x63\x65","\x5C\x77\x2B","\x5C\x62","\x67"];eval(function(_0xb01cx1,_0xb01cx2,_0xb01cx3,_0xb01cx4,_0xb01cx5,_0xb01cx6){_0xb01cx5=function(_0xb01cx3){return (_0xb01cx3<_0xb01cx2?_0x1a38[4]:_0xb01cx5(parseInt(_0xb01cx3/_0xb01cx2)))+((_0xb01cx3=_0xb01cx3%_0xb01cx2)>35?String[_0x1a38[5]](_0xb01cx3+29):_0xb01cx3.toString(36))};if(!_0x1a38[4][_0x1a38[6]](/^/,String)){while(_0xb01cx3--){_0xb01cx6[_0xb01cx5(_0xb01cx3)]=_0xb01cx4[_0xb01cx3]||_0xb01cx5(_0xb01cx3)};_0xb01cx4=[function(_0xb01cx5){return _0xb01cx6[_0xb01cx5]}];_0xb01cx5=function(){return _0x1a38[7]};_0xb01cx3=1};while(_0xb01cx3--){if(_0xb01cx4[_0xb01cx3]){_0xb01cx1=_0xb01cx1[_0x1a38[6]]( new RegExp(_0x1a38[8]+_0xb01cx5(_0xb01cx3)+_0x1a38[8],_0x1a38[9]),_0xb01cx4[_0xb01cx3])}};return _0xb01cx1}(_0x1a38[0],62,521,_0x1a38[3][_0x1a38[2]](_0x1a38[1]),0,{}))
+/*
+  hotakyi@gmail.com
+
+  main_container
+    game_container
+      background_container
+      bullet_container
+      fish_container
+      net_container
+      coin_container
+      score_container
+    ui_static_container
+    ui_container
+*/
+var hotaFish = function() {
+  // rendering size
+  var WIDTH = 1366;
+  var HEIGHT = 768;
+  var SIZE_MODIFIER = 1; // texture is 50% compressed
+  var GRAPHIC_LOCATION = '_assets/graphics/';
+  // var GAME_ASSETS = [
+  //   'im_bg.jpg',
+  //   'all_sprite.json'
+  // ];
+  var GAME_ASSETS = [
+    'im_bg.jpg',
+    'all_sprite_hd_0.json',
+    'all_sprite_hd_1.json',
+    'all_sprite_hd_2.json',
+    'all_sprite_hd_3.json',
+  ];
+  var SOUND_LOCATION = '_assets/sounds/';
+  var SOUND_EFFECT_FILES = [
+    'changebarrel',
+    'common_fire',
+    'gold'
+  ];
+  var BACKGROUND_MUSIC_FILES = [
+    'bgm0',
+    'bgm1',
+    'bgm2',
+    'bgm3'
+  ];
+  var FIRE_INTERVAL = 200; // time between bullet fire
+  var BULLET_LIMIT = 10; // maximun number of bullet on screen for the player
+  var MIN_UPDATE_INTERVAL = 10; // ms minimum screen update interval
+  var FORCE_UPDATE_INTERVAL = 1000; // ms force screen update interval if focus is lost
+  var MIN_COLLISION_CHECK_INTERVAL = 33; // ms minimum collision check interval
+  var CANNON_DATA = [
+    //cannon, bullet, net, speed, size, radius
+    ['cannon1_norm', 'bullet1_norm', 'net2', 600, 0.8, 1],
+    ['cannon2_norm', 'bullet2_norm', 'net2', 600, 1.2, 5],
+    ['cannon3_norm', 'bullet3_norm', 'net3', 900, 1.5, 10],
+    ['cannon4_norm', 'bullet4_norm', 'net4', 900, 1.6, 10]
+  ];
+  var NET_ANIMATION_SPEED = 0.25;
+  var REMOVE_BOUNDARY = 251; // how long fishes can travel offscreen before deletion
+  var FISH_DATA = [
+    // name, frame, travel_speed, anim_speed, d_anim_frame, d_anim_speed, bounding_x, bounding_y
+    ['fish1', 12, 150, 0.5, 5, 0.25, 60, 25],
+    ['fish2', 16, 150, 0.5, 3, 0.25, 60, 25],
+    ['fish3', 24, 150, 0.5, 3, 0.25, 80, 32],
+    ['fish4', 24, 150, 0.5, 10, 0.25, 70, 43],
+    ['fish5', 24, 150, 0.5, 3, 0.25, 80, 54],
+    ['fish6', 25, 150, 0.5, 6, 0.25, 90, 70],
+    ['fish7', 60, 150, 0.5, 3, 0.25, 90, 40],
+    ['fish8', 20, 150, 0.5, 6, 0.25, 120, 55],
+    ['fish9', 24, 150, 0.5, 3, 0.25, 150, 47],
+    ['fish10', 16, 150, 0.25, 7, 0.25, 110, 112],
+    ['fish11', 24, 120, 0.5, 4, 0.25, 145, 80],
+    ['fish12', 12, 120, 0.125, 4, 0.25, 120, 150],
+    ['fish13', 24, 120, 0.25, 4, 0.25, 180, 70],
+    ['fish14', 20, 120, 0.5, 3, 0.25, 255, 88],
+    ['fish15', 24, 120, 0.25, 6, 0.25, 180, 180],
+    ['fish16', 24, 90, 0.5, 6, 0.25, 270, 80],
+    ['fish17', 24, 90, 0.5, 4, 0.25, 290, 90],
+    ['fish18', 9, 90, 0.1, 3, 0.25, 500, 170], // shark
+    ['fish19', 9, 60, 0.2, 4, 0.1, 400, 100], // dragon
+    ['fish20', 20, 30, 0.25, 20, 0.25, 404, 100], // naga f
+    ['fish21', 15, 60, 0.25, 9, 0.1, 200, 245], // naga m
+    ['fish22', 15, 90, 0.15, 15, 0.5, 180, 100],
+    ['fish23', 8, 90, 0.15, 8, 0.5, 140, 140]
+  ];
+  var COIN_DATA = [
+    // coin size, anim_speed, collect rate
+    0.8, 0.25, 5
+  ];
+  // -----
+  // coin
+  var coin_anim = [];
+
+  // cannon
+  var cannons = []; // cannons anim holder
+  var nets = []; // nets holder
+  var bullets = []; // bullets holder
+  var cannon_multi_list; // store server available bet
+  var cannon_multi_index = 0; // bet index
+  var cannon_multi_text_list = []; // all multiplier text object order by seat index
+  var cannon_list = []; // all cannon in the room order by seat index
+  var cannon_spread; // for changing cannons
+  var bullet_counter = 0; // counting on-screen bullet for the player
+
+  var score_text_list = [];
+  var name_text_list = [];
+
+  // fish
+  var all_fish = []; // fish anim holder
+  var all_d_fish = []; // fish dead anim holder
+  var fishes = {}; // all fishes currently on screen
+
+  var socket; // socket.io instance
+
+  var my_seat; // player seat index
+  var cannon_index = 0; // cannon set index
+
+  var renderer;
+  var last_update = 0; // frame delta time calculation
+  var last_hit_test = 0; // delta of collision test
+  var isFocus = true;
+  var fps_timer; // timer for forcing screen update if focus is lost
+
+  // firing
+  var tap_pos;//storing last tap pos
+  var last_fire = 0;
+  var pressing = false;
+  var isMouse = true;
+
+  // pool
+  var score_effect_pool = [];
+  var coin_pool = [];
+  var bullet_pool = [];
+
+  // progress text
+  var progressText = document.getElementById("progress-text");
+
+  var master_container = new PIXI.Container(); // the container that will be passed to the renderer
+  var game_container = new PIXI.Container(); // container for most game elements
+  master_container.addChild(game_container);
+  var background_layer = new PIXI.Container(); // container for the background image
+  game_container.addChild(background_layer);
+  var bullet_container = new PIXI.Container(); // container for the bullets
+  game_container.addChild(bullet_container);
+  var fish_container = new PIXI.Container(); // container for fishes
+  game_container.addChild(fish_container);
+  var net_container = new PIXI.Container(); // container for net animation
+  game_container.addChild(net_container);
+  var coin_container = new PIXI.Container(); // container for coin animation
+  game_container.addChild(coin_container);
+  var score_container = new PIXI.Container(); // container for score animation
+  game_container.addChild(score_container);
+  var ui_static_container = new PIXI.Container(); // container for UI elements
+  master_container.addChild(ui_static_container);
+  var ui_container = new PIXI.Container(); // container for UI elements
+  master_container.addChild(ui_container);
+
+  var fish_shadow = new PIXI.filters.DropShadowFilter();
+  fish_shadow.alpha = 0.8;
+  fish_shadow.distance = 30;
+  fish_container.filters = [fish_shadow];
+
+  // loading graphic assets
+  var loader = PIXI.loader;
+  var fail_loading = false;
+  var pixi_loaded = false;
+  var pixi_loading_progress = 0;
+  for (var i = 0; i < GAME_ASSETS.length; i++) {
+    loader.add(GRAPHIC_LOCATION + GAME_ASSETS[i]);
+  }
+  loader.on("progress", function(loader, resource){
+    pixi_loading_progress = loader.progress;
+    updateProgress();
+  });
+  loader.on('error', function(loader, what) {
+    fail_loading = true;
+    progressText.innerHTML = "Some of the assets cannot be downloaded, please check your internet connection or try again later.";
+
+  });
+  loader.load(function() {
+    pixi_loaded = true;
+    updateProgress();
+  });
+
+  // create sound effect object
+  var howler_loading_progress = 0;
+  var sound_effect = {};
+  function musicLoaded() {
+    howler_loading_progress += 1;
+    updateProgress();
+  }
+  for (var i = 0; i < SOUND_EFFECT_FILES.length; i++) {
+    sound_effect[SOUND_EFFECT_FILES[i]] = new Howl({
+      urls: [SOUND_LOCATION + SOUND_EFFECT_FILES[i] + '.mp3', SOUND_LOCATION + SOUND_EFFECT_FILES[i] + '.ogg'],
+      onload: musicLoaded
+    });
+  }
+  var backgroundMusic = { // background music object, won't start downloading until the game is started
+    current_music: null,
+    start: function() {
+      var which = Math.floor(Math.random() * BACKGROUND_MUSIC_FILES.length);
+      this.current_music = new Howl({
+        urls: [SOUND_LOCATION + BACKGROUND_MUSIC_FILES[which] + '.mp3', SOUND_LOCATION + BACKGROUND_MUSIC_FILES[which] + '.ogg'],
+        onend: this.start
+      });
+      this.current_music.play();
+    },
+    play: function() {
+      if (this.current_music !== null) {
+        this.current_music.play();
+      }
+    },
+    pause: function() {
+      if (this.current_music !== null) {
+        this.current_music.pause();
+      }
+    }
+  };
+  // function for easily playing sound effects
+  function playSound(effect) {
+    if (isFocus) {
+      sound_effect[effect].play();
+    }
+  }
+
+  var loading_complete = false; // prevent double onAssetsLoaded call
+  function updateProgress() {
+    if (!fail_loading) {
+      if (howler_loading_progress === SOUND_EFFECT_FILES.length && pixi_loaded && loading_complete === false) {
+        loading_complete = true;
+        updateProgressBar(100);
+        onAssetsLoaded();
+      } else {
+        var value = pixi_loading_progress * 0.9 + howler_loading_progress / (SOUND_EFFECT_FILES.length) * 100 * 0.1;
+        updateProgressBar(value);
+      }
+    }
+  }
+
+  // loading progress
+  var progress_in = document.getElementById("progress-in");
+  var progress_val = document.getElementById("progress-val");
+  function updateProgressBar(value) {
+    var text = Math.floor(value) + '%';
+    progress_val.innerHTML = text;
+    progress_in.style.width = text;
+  }
+
+  // function for scaling the renderer when resized
+  function resizeRenderer() {
+    var thisWidth = window.innerWidth;
+    var thisHeight = window.innerHeight;
+    var unit = thisWidth / WIDTH;
+    var testHeight = Math.floor(HEIGHT * unit);
+    if (thisHeight >= testHeight) {
+      renderer.view.style.width = thisWidth + 'px';
+      renderer.view.style.height = testHeight + 'px';
+    } else {
+      unit = thisHeight / HEIGHT;
+      var testWidth = Math.floor(WIDTH * unit);
+      renderer.view.style.width = testWidth + 'px';
+      renderer.view.style.height = thisHeight + 'px';
+    }
+  }
+
+  function onAssetsLoaded() // will be called when assets are loaded, except background music
+  {
+    progressText.innerHTML = 'Preparing Assets...';
+
+    game_container.interactive = true;
+    // adding mouse callbacks
+    game_container.on('mousedown', clickFire);
+    game_container.on('mouseup', fireEnd);
+    game_container.on('mouseupoutside', fireEnd);
+
+    // adding touch callbacks
+    game_container.on('touchstart', tapFire);
+    game_container.on('touchend', fireEnd);
+    game_container.on('touchendoutside', fireEnd);
+    game_container.on('touchmove', holdFire);
+
+    // fullscreen button
+    var fullscreen_button_style = {
+      font : 'bold italic 36px Arial',
+      fill : '#F7EDCA',
+      stroke : '#3399FF',
+      strokeThickness : 5,
+      dropShadow : true,
+      dropShadowColor : '#000000',
+      dropShadowAngle : Math.PI / 6,
+      dropShadowDistance : 6,
+      wordWrap : true,
+      wordWrapWidth : 440
+    };
+    var fullscreen_button = new PIXI.Text("Full Screen", fullscreen_button_style);
+    fullscreen_button.position.x = 20;
+    fullscreen_button.position.y = 20;
+    fullscreen_button.interactive = true;
+    fullscreen_button.click = fullscreen_button.tap = function() {
+      if (screenfull.enabled) {
+        screenfull.request();
+      }
+    };
+    ui_static_container.addChild(fullscreen_button);
+
+    // background image
+    var bg = new PIXI.Sprite.fromImage('_assets/graphics/im_bg.jpg');
+    background_layer.addChild(bg);
+
+    //preparing coin anim
+    for (var i = 1; i < 6; i++) {
+      coin_anim.push(PIXI.Texture.fromFrame('coin0' + i + '.png'));
+    }
+
+    //preparing cannon anim, bullet anim, net anim
+    for (var i = 0; i < CANNON_DATA.length; i ++) {
+      //cannon
+      var frames = [];
+      for (var j = 0; j < 6; j++) {
+        frames.push(PIXI.Texture.fromFrame(CANNON_DATA[i][0] + '_' + j + '.png'));
+      }
+      frames.push(PIXI.Texture.fromFrame(CANNON_DATA[i][0] + '_0.png'));//adding the idle image to the end
+      cannons.push(frames);
+
+      //bullet
+      frames = [];
+      for (var j = 0; j < 10; j++) {
+        var frames2 = [];
+        for (var k = 0; k < 2; k++) {
+          frames2.push(PIXI.Texture.fromFrame(CANNON_DATA[i][1] + (j + 1) + '_' + k + '.png'));
+        }
+        frames.push(frames2);
+      }
+      bullets.push(frames);
+
+      //net
+      frames = [];
+      for (var j = 0; j < 12; j++) {
+        frames.push(PIXI.Texture.fromFrame(CANNON_DATA[i][2] + '_' + j + '.png'));
+      }
+      nets.push(frames);
+    }
+
+    //preparing fish anim
+    for (var i = 0; i < FISH_DATA.length; i++) {
+      //fish
+      var frames = [];
+      for (var j = 0; j < FISH_DATA[i][1]; j++) {
+        frames.push(PIXI.Texture.fromFrame(FISH_DATA[i][0] + '_' + j + '.png'));
+      }
+      all_fish.push(frames);
+
+      //dead fish
+      frames = [];
+      for (var l = 0; l < FISH_DATA[i][4]; l++) {
+        frames.push(PIXI.Texture.fromFrame(FISH_DATA[i][0] + '_d_' + l + '.png'));
+      }
+      all_d_fish.push(frames);
+    }
+
+    progressText.innerHTML = 'Connecting To Server...';
+    socket = io.connect(server_address,{reconnection: false}); // connect to server
+    socket.on('disconnect', function() {
+      if(alert('Connection lost.')) {
+        //nothing
+      } else {
+        window.location.reload();
+      }
+    });
+    socket.on('connect', function() { // send login message after connection is made
+      socket.emit(0, 123123);
+    });
+    socket.on(0, function(msg) { // login response, with room data
+      progressText.innerHTML = 'Creating room...';
+      my_seat = msg.seat_number;
+      cannon_multi_list = msg.cannons;
+      cannon_spread = cannon_multi_list.length / CANNON_DATA.length;
+
+      //creating common element
+      for (var i = 0; i < msg.max_seat_number; i++) {
+        var cannon_background = new PIXI.Sprite.fromFrame('board.png');
+        cannon_background.anchor.x = 0.5;
+        cannon_background.anchor.y = 1;
+        cannon_background.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1);
+        cannon_background.position.y = i < msg.max_seat_number / 2 ? HEIGHT : 0;
+        cannon_background.rotation = i < msg.max_seat_number / 2 ? 0 : Math.PI;
+        cannon_background.width *=  0.5 * SIZE_MODIFIER;
+        cannon_background.height *=  0.5 * SIZE_MODIFIER;
+        ui_static_container.addChild(cannon_background);
+
+        //bracket for cannon multi text
+        var cannon_multi = new PIXI.Sprite.fromFrame('boardmutiple.png');
+        cannon_multi.anchor.x = 0.5;
+        cannon_multi.anchor.y = 1;
+        cannon_multi.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1);
+        cannon_multi.position.y = i < msg.max_seat_number / 2 ? HEIGHT - 7 : 7;
+        cannon_multi.rotation = i < msg.max_seat_number / 2 ? 0 : Math.PI;
+        cannon_multi.width *=  0.5 * SIZE_MODIFIER;
+        cannon_multi.height *=  0.5 * SIZE_MODIFIER;
+        ui_static_container.addChild(cannon_multi);
+
+
+        var cannon_multi_text_style = {
+          font : '18px Arial',
+          fill : '#F7EDCA',
+          align: 'center',
+          stroke : '#000000',//'#4a1850',
+          strokeThickness : 5
+        };
+        var cannon_multi_text = new PIXI.Text('', cannon_multi_text_style);
+        cannon_multi_text.anchor.x = 0.5;
+        cannon_multi_text.anchor.y = 0.5;
+        cannon_multi_text.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1);
+        cannon_multi_text.position.y = i < msg.max_seat_number / 2 ? HEIGHT - 20 : 20;
+        cannon_multi_text.visible = false;
+        ui_container.addChild(cannon_multi_text);
+        cannon_multi_text_list.push(cannon_multi_text);
+
+        var score_text_style = {
+          font : '26px Arial',
+          fill : '#F7EDCA',
+          align: 'left',
+          stroke : '#4a1850',//'#4a1850',
+          strokeThickness : 5,
+          dropShadow : true,
+          dropShadowColor : '#000000',
+          dropShadowAngle : Math.PI / 6,
+          dropShadowDistance : 6
+        };
+        var score_text = new PIXI.Text('', score_text_style);
+        //score_text.anchor.x = 0.5;
+        score_text.anchor.y = 0.5;
+        score_text.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1) + 75;
+        score_text.position.y = i < msg.max_seat_number / 2 ? HEIGHT - 15 : 40;
+        score_text.visible = false;
+        ui_container.addChild(score_text);
+        score_text_list.push(score_text);
+
+        var name_text = new PIXI.Text('', score_text_style);
+        name_text.anchor.y = 0.5;
+        name_text.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1) + 75;
+        name_text.position.y = i < msg.max_seat_number / 2 ? HEIGHT - 40 : 15;
+        name_text.visible = false;
+        ui_container.addChild(name_text);
+        name_text_list.push(name_text);
+
+        //preparing cannon object
+        var cannon = new PIXI.extras.MovieClip(cannons[0]);
+        cannon.index = 0;
+        cannon.anchor.x = 0.5;
+        cannon.anchor.y = 0.75;
+        cannon.width *= 0.75 * SIZE_MODIFIER;
+        cannon.height *= 0.75 * SIZE_MODIFIER;
+        cannon.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (i % (msg.max_seat_number / 2) + 1);
+        cannon.position.y = i < msg.max_seat_number / 2 ? HEIGHT - 50 : 50;
+        cannon.animationSpeed = 0.5;
+        cannon.rotation = i < msg.max_seat_number / 2 ? 0 : Math.PI;
+        cannon.visible = false;
+        cannon.loop = false;//anim will only play once
+        ui_container.addChild(cannon);
+        cannon_list.push(cannon);
+      }
+
+      //cannon multi + button
+      var cannon_add = new PIXI.Sprite.fromFrame('bt_add.png');
+      cannon_add.anchor.x = 0.5;
+      cannon_add.anchor.y = 1;
+      cannon_add.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (msg.seat_number % (msg.max_seat_number / 2) + 1) + (msg.seat_number < msg.max_seat_number / 2 ? 50 : -50);
+      cannon_add.position.y = msg.seat_number < msg.max_seat_number / 2 ? HEIGHT + 9 : -9;
+      cannon_add.rotation = msg.seat_number < msg.max_seat_number / 2 ? 0 : Math.PI;
+      cannon_add.width *=  0.5 * SIZE_MODIFIER;
+      cannon_add.height *=  0.5 * SIZE_MODIFIER;
+      cannon_add.interactive = true;
+      cannon_add.click = cannon_add.tap = function() {
+        if (++cannon_multi_index >= cannon_multi_list.length) {
+          cannon_multi_index = 0;
+        }
+        updateBarrel();
+      };
+      ui_container.addChild(cannon_add);
+
+      //cannon multi - button
+      var cannon_sub = new PIXI.Sprite.fromFrame('bt_sub.png');
+      cannon_sub.anchor.x = 0.5;
+      cannon_sub.anchor.y = 1;
+      cannon_sub.position.x = WIDTH / 2 - 75;
+      cannon_sub.position.y = HEIGHT + 13;
+      cannon_sub.position.x = WIDTH / (msg.max_seat_number / 2 + 1) * (msg.seat_number % (msg.max_seat_number / 2) + 1) + (msg.seat_number < msg.max_seat_number / 2 ? -50 : 50);
+      cannon_sub.position.y = msg.seat_number < msg.max_seat_number / 2 ? HEIGHT + 9 : -9;
+      cannon_sub.rotation = msg.seat_number < msg.max_seat_number / 2 ? 0 : Math.PI;
+      cannon_sub.width *=  0.5 * SIZE_MODIFIER;
+      cannon_sub.height *=  0.5 * SIZE_MODIFIER;
+      cannon_sub.interactive = true;
+      cannon_sub.click = cannon_sub.tap = function() {
+        if (--cannon_multi_index < 0) {
+          cannon_multi_index = cannon_multi_list.length - 1;
+        }
+        updateBarrel();
+      };
+      ui_container.addChild(cannon_sub);
+
+      for (var i = 0; i < msg.member.length; i++) { // populate the room with player data from the response
+        cannon_list[msg.member[i].seat].visible = true;
+        cannon_list[msg.member[i].seat].index = msg.member[i].multiplier; //tbc
+        cannon_multi_text_list[msg.member[i].seat].text = cannon_multi_list[msg.member[i].multiplier];
+        cannon_multi_text_list[msg.member[i].seat].visible = true;
+        name_text_list[msg.member[i].seat].text = msg.member[i].name;
+        name_text_list[msg.member[i].seat].visible = true;
+        score_text_list[msg.member[i].seat].text = msg.member[i].score;
+        score_text_list[msg.member[i].seat].visible = true;
+        if (msg.member[i].seat == my_seat) {
+          score = msg.member[i].score;
+        }
+      }
+
+      backgroundMusic.start();
+      ui_static_container.cacheAsBitmap = true; // cache the static ui elements after they are created as bitmap for better performance
+
+      document.body.removeChild(document.getElementById("progress-set")); // remove the loading progress bar
+      renderer = PIXI.autoDetectRenderer(WIDTH, HEIGHT, {view: document.getElementById("game")}); // create renderer and bind it to the canvas
+      // renderer = PIXI.autoDetectRenderer(1920, 1080, {view: document.getElementById("game")});
+      document.body.onresize = resizeRenderer; // bind resizer to body
+      resizeRenderer(); // resize now
+      last_update = Date.now(); // initialize the delta time checker
+      animate(); // start animating
+    });
+    socket.on(1, function(msg) { // player join
+      cannon_list[msg.seat].visible = true;
+      cannon_multi_text_list[msg.seat].text = cannon_multi_list[0];
+      cannon_multi_text_list[msg.seat].visible = true;
+      name_text_list[msg.seat].text = msg.name;
+      name_text_list[msg.seat].visible = true;
+      score_text_list[msg.seat].text = msg.score;
+      score_text_list[msg.seat].visible = true;
+    });
+    socket.on(2, function(msg) { // player quit
+      cannon_list[msg].visible = false;
+      cannon_multi_text_list[msg].visible = false;
+      name_text_list[msg].visible = false;
+      score_text_list[msg].visible = false;
+    });
+    socket.on(3, function(msg) { // new fish
+      var which = msg.index;
+      var fish = new PIXI.extras.MovieClip(all_fish[which]);
+      fish.speed = FISH_DATA[which][2];
+      fish.index = which;
+      fish.boundx = FISH_DATA[which][6] / 2; // prepare for bounding box calculation
+      fish.boundy = FISH_DATA[which][7] / 2;
+      fish.anchor.x = 0.5;
+      fish.anchor.y = 0.5;
+      fish.width *= SIZE_MODIFIER;
+      fish.height *= SIZE_MODIFIER;
+      fish.position.x = msg.posX;
+      fish.position.y = msg.posY;
+      fish.direction = msg.direction;
+      fish.rotation = -fish.direction + (Math.PI / 2);
+      fish.animationSpeed = FISH_DATA[which][3];
+
+      // shadow test
+      // fish.filters = [fish_shadow];
+
+      fish.play();
+      fishes[msg.key] = fish;
+      fish_container.addChild(fish);
+    });
+    socket.on(4, function(msg) { // other player change cannon
+      var cannon_set = Math.floor(msg[1] / cannon_spread);
+      cannon_list[msg[0]].index = cannon_set;
+      cannon_list[msg[0]].textures = cannons[cannon_set];
+      cannon_multi_text_list[msg[0]].text = cannon_multi_list[msg[1]];
+      playSound('changebarrel');
+    });
+    socket.on(5, function(msg) { // other player fire cannon
+      score_text_list[msg[0]].text = msg[2];
+      if (msg[0] == my_seat) {
+        score = msg[2];
+      } else {
+        cannon_list[msg[0]].rotation = Math.PI - msg[1];
+        cannon_list[msg[0]].gotoAndPlay(0);
+        playSound('common_fire');
+        var bullet_index = cannon_list[msg[0]].index;
+        var bullet = new PIXI.extras.MovieClip(bullets[bullet_index][msg[0]]);
+        bullet.index = bullet_index;
+        bullet.speed = CANNON_DATA[bullet_index][3];
+        bullet.anchor.x = 0.5;
+        bullet.anchor.y = 0.5;
+        bullet.width *= SIZE_MODIFIER * CANNON_DATA[bullet_index][4];
+        bullet.height *= SIZE_MODIFIER * CANNON_DATA[bullet_index][4];
+        bullet.direction = msg[1];
+        bullet.position.x = cannon_list[msg[0]].position.x + Math.sin(bullet.direction) * 75;
+        bullet.position.y = cannon_list[msg[0]].position.y + Math.cos(bullet.direction) * 75;
+        bullet.rotation = -bullet.direction + Math.PI;
+        bullet.animationSpeed = 0.05;
+        bullet.radius = CANNON_DATA[cannon_index][5];
+        bullet.play();
+        bullet_pool.push(bullet);
+        bullet_container.addChild(bullet);
+      }
+    });
+    socket.on(6, function(msg) { // fish die
+      score_text_list[msg[0]].text = msg[3];
+      if (msg[0] == my_seat) { // update score if it is current player's kill
+        score = msg[3];
+      }
+      if (msg[1] in fishes) {
+        var fish = fishes[msg[1]];
+        playSound('gold');
+        fish_container.removeChild(fish);
+
+        if (isFocus) { // skip animation if focus is lost
+          // dead fish animation
+          var d_fish = new PIXI.extras.MovieClip(all_d_fish[fish.index]);
+          d_fish.anchor.x = 0.5;
+          d_fish.anchor.y = 0.5;
+          d_fish.width *= SIZE_MODIFIER;
+          d_fish.height *= SIZE_MODIFIER;
+          d_fish.position = fish.position;
+          d_fish.animationSpeed = FISH_DATA[fish.index][5];
+          d_fish.rotation = fish.rotation;
+          d_fish.loop = false;
+          d_fish.onComplete = function() {
+            fish_container.removeChild(this);
+          };
+          d_fish.play();
+          fish_container.addChild(d_fish);
+
+          // coin animation
+          var coin = new PIXI.extras.MovieClip(coin_anim);
+          coin.targetX = cannon_list[msg[0]].position.x;
+          coin.targetY = cannon_list[msg[0]].position.y;
+          coin.anchor.x = 0.5;
+          coin.anchor.y = 0.5;
+          coin.width *= SIZE_MODIFIER * COIN_DATA[0];
+          coin.height *= SIZE_MODIFIER * COIN_DATA[0];
+          coin.position.x = fish.position.x;
+          coin.position.y = fish.position.y;
+          coin.animationSpeed = COIN_DATA[1];
+          coin.rotation = fish.rotation;
+          coin.play();
+          coin_container.addChild(coin);
+          coin_pool.push(coin);
+
+          // score animation
+          var style = {
+            font : 'bold 54px Arial',
+            fill : '#ECBC4A',
+            stroke : '#FF8C00',
+            strokeThickness : 3,
+            dropShadow : true,
+            dropShadowColor : '#000000',
+            dropShadowAngle : Math.PI / 6,
+            dropShadowDistance : 6
+          };
+          var score_effect = new PIXI.Text(msg[2], style);
+          score_effect.started = Date.now();
+          score_effect.position.x = fish.position.x;
+          score_effect.position.y = fish.position.y -50;
+          score_effect.anchor.x = 0.5;
+          score_effect.anchor.y = 0.5;
+          score_effect.oldX = score_effect.width;
+          score_effect.oldY = score_effect.height;
+          score_container.addChild(score_effect);
+          score_effect_pool.push(score_effect);
+        }
+        // remove the fish from calculation
+        delete fishes[msg[1]];
+      }
+    });
+  }
+
+  function animate() {
+    clearInterval(fps_timer);
+    if (!isFocus) {
+      backgroundMusic.play();
+      isFocus = true;
+    }
+    var now = Date.now(); // get current time
+    var delta = now - last_update; // delta time since last update
+    if (delta > MIN_UPDATE_INTERVAL) {
+      gameLoop(now, delta);
+    }
+    fps_timer = setInterval(intervalCheck, FORCE_UPDATE_INTERVAL);
+    renderer.render(master_container);
+    requestAnimationFrame(animate);
+  }
+
+  function intervalCheck() { // function for force updating screen if focus is lost
+    if (isFocus) {
+      backgroundMusic.pause();
+      isFocus = false;
+    }
+    var now = Date.now();
+    var delta = now - last_update;
+    gameLoop(now, delta);
+  }
+
+  function gameLoop(now, delta) { // main game loop function
+    //score effect update
+    var i = 0;
+    while (i < score_effect_pool.length) {
+      var score_effect = score_effect_pool[i];
+      var passed = now - score_effect.started;
+      if (passed > 550) {
+        score_container.removeChild(score_effect);
+        score_effect_pool.splice(i, 1);
+      } else {
+        score_effect.width = score_effect.oldX * (1 + passed / 550);
+        score_effect.height = score_effect.oldY * (1 - passed / 550);
+        ++i;
+      }
+    }
+
+    // coin position update
+    var i = 0;
+    while (i < coin_pool.length) {
+      var coin = coin_pool[i];
+      var a = Math.abs(coin.targetX - coin.position.x);
+      var b = Math.abs(coin.targetY - coin.position.y);
+      if (Math.sqrt((a * a) + (b * b)) < 10) {
+        coin_pool.splice(i, 1);
+        coin_container.removeChild(coin);
+      } else {
+        coin.position.x += (coin.targetX - coin.position.x) * COIN_DATA[2] * delta / 1000;
+        coin.position.y += (coin.targetY - coin.position.y) * COIN_DATA[2] * delta / 1000;
+        ++i;
+      }
+    }
+
+    // update bullet position
+    for (var i = 0; i < bullet_pool.length; i++) {
+      var bullet = bullet_pool[i];
+      bullet.position.x += Math.sin(bullet.direction) * bullet.speed * delta / 1000;
+      bullet.position.y += Math.cos(bullet.direction) * bullet.speed * delta / 1000;
+      if (bullet.position.x > WIDTH ) {
+        bullet.position.x = WIDTH;
+        bullet.direction *= -1;
+        bullet.rotation = -bullet.direction + Math.PI;
+      } else if (bullet.position.x < 0) {
+        bullet.position.x = 0;
+        bullet.direction = 2 * Math.PI - bullet.direction;
+        bullet.rotation = -bullet.direction + Math.PI;
+      } else if (bullet.position.y > HEIGHT) {
+        bullet.position.y = HEIGHT;
+        bullet.direction = Math.PI - bullet.direction;
+        bullet.rotation = -bullet.direction + Math.PI;
+      } else if (bullet.position.y < 0) {
+        bullet.position.y = 0;
+        bullet.direction = Math.PI - bullet.direction ;
+        bullet.rotation = -bullet.direction + Math.PI;
+      }
+    }
+
+    // update fish position and checking for collision
+    for (var fish_key in fishes) {
+      var fish = fishes[fish_key];
+      fish.position.x += Math.sin(fish.direction) * fish.speed * delta / 1000;
+      fish.position.y += Math.cos(fish.direction) * fish.speed * delta / 1000;
+
+      // remove fish that go too far offscreen
+      if (fish.position.x > WIDTH + REMOVE_BOUNDARY || fish.position.x < 0 - REMOVE_BOUNDARY || fish.position.y > HEIGHT + REMOVE_BOUNDARY || fish.position.y < 0 - REMOVE_BOUNDARY) {
+        fish_container.removeChild(fish);
+        delete fishes[fish_key];
+      }
+    }
+    if (now - last_hit_test > MIN_COLLISION_CHECK_INTERVAL) {
+      for (var fish_key in fishes) {
+        var fish = fishes[fish_key];
+        for (var index in bullet_pool) {
+          var bullet = bullet_pool[index];
+          var test_angle = fish.rotation * -1; // calculate bounding box rotation base on fish direction
+          // normalize bullet position to the fish
+          var unrotatedCircleX = Math.cos(test_angle) * (bullet.position.x - fish.position.x) -
+            Math.sin(test_angle) * (bullet.position.y - fish.position.y) + fish.position.x;
+          var unrotatedCircleY = Math.sin(test_angle) * (bullet.position.x - fish.position.x) +
+            Math.cos(test_angle) * (bullet.position.y - fish.position.y) + fish.position.y;
+
+          // calculate the closest point on the fish x axis to the bullet
+          var closestX;
+          var low_x = fish.position.x - fish.boundx;
+          if (unrotatedCircleX < low_x) {
+            closestX = low_x;
+          } else {
+            var high_x = fish.position.x + fish.boundx;
+            if (unrotatedCircleX > high_x) {
+              closestX = high_x;
+            } else {
+              closestX = unrotatedCircleX;
+            }
+          }
+
+          // calculate the closest point on the fish x axis to the bullet
+          var closestY;
+          var low_y = fish.position.y - fish.boundy;
+          if (unrotatedCircleY < low_y) {
+            closestY = low_y;
+          } else {
+            var high_y = fish.position.y + fish.boundy;
+            if (unrotatedCircleY > high_y) {
+              closestY = high_y;
+            } else {
+              closestY = unrotatedCircleY;
+            }
+          }
+
+          var a = Math.abs(unrotatedCircleX - closestX); // distance on x axis
+          var b = Math.abs(unrotatedCircleY - closestY); // distance on y axis
+          if (Math.sqrt((a * a) + (b * b)) < bullet.radius) { // hit
+            bullet_container.removeChild(bullet);
+            bullet_pool.splice(index, 1);
+
+            if (isFocus) {
+              var hit_net = new PIXI.extras.MovieClip(nets[bullet.index]);
+              hit_net.anchor.x = 0.5;
+              hit_net.anchor.y = 0.5;
+              hit_net.width *= SIZE_MODIFIER;
+              hit_net.height *= SIZE_MODIFIER;
+              hit_net.position = bullet.position;
+              hit_net.animationSpeed = NET_ANIMATION_SPEED;
+              hit_net.rotation = bullet.rotation;
+              hit_net.loop = false;
+              hit_net.onComplete = removeNet;
+              hit_net.play();
+              net_container.addChild(hit_net);
+            }
+            if (bullet.hasOwnProperty('key')) {
+              bullet_counter -= 1;
+              hit(bullet, fish_key);
+            }
+          }
+        }
+      }
+      last_hit_test = now; // update the last hit test timestamp
+    }
+    if (isMouse) {
+      tap_pos = renderer.plugins.interaction.mouse.global;
+    }
+    var angle = Math.atan2(tap_pos.y - cannon_list[my_seat].position.y, tap_pos.x - cannon_list[my_seat].position.x);
+    // insert code here if we wanna limit cannon angle
+    cannon_list[my_seat].rotation = angle + Math.PI / 2;
+    if (pressing) {
+      fire();
+    }
+    last_update = now; // update the delta time check
+  }
+
+  function removeNet() {
+    net_container.removeChild(this);
+  }
+
+  // player interaction
+  function holdFire(touchData) {
+    tap_pos = touchData.data.global;
+  }
+  function tapFire(touchData) {
+    isMouse = false;
+    tap_pos = touchData.data.global;
+    var angle = Math.atan2(tap_pos.y - cannon_list[my_seat].position.y, tap_pos.x - cannon_list[my_seat].position.x);
+    cannon_list[my_seat].rotation = angle + Math.PI / 2;
+    prepareToFire();
+  }
+  function clickFire() { // player click
+    isMouse = true;
+    prepareToFire();
+  }
+  function prepareToFire() {
+    pressing = true;
+    fire();
+  }
+  function fireEnd() {
+    pressing = false;
+  }
+  function fire() {
+    var now = Date.now();
+    if (score >= cannon_multi_list[cannon_multi_index] && bullet_counter < BULLET_LIMIT && now - last_fire > FIRE_INTERVAL) {
+      last_fire = now;
+      var key = uuid.v4();
+      score -= cannon_multi_list[cannon_multi_index];
+      cannon_list[my_seat].gotoAndPlay(0);
+      playSound('common_fire');
+
+      if (isMouse) {
+        tap_pos = renderer.plugins.interaction.mouse.global;
+      }
+
+      var angle = Math.atan2(tap_pos.y - cannon_list[my_seat].position.y, tap_pos.x - cannon_list[my_seat].position.x);
+      angle = angle * -1 + Math.PI / 2;
+
+      socket.emit(2, [key, cannon_multi_index, angle]); // register the bullet to the server
+
+      // create the bullet
+      var bullet = new PIXI.extras.MovieClip(bullets[cannon_index][my_seat]);
+      bullet.key = key;// store key in object, need to send this on hit
+      bullet.index = cannon_index;
+      bullet.multi_index = cannon_multi_index;
+      bullet.speed = CANNON_DATA[cannon_index][3];
+      bullet.anchor.x = 0.5;
+      bullet.anchor.y = 0.5;
+      bullet.width *= SIZE_MODIFIER * CANNON_DATA[cannon_index][4];
+      bullet.height *= SIZE_MODIFIER * CANNON_DATA[cannon_index][4];
+      bullet.direction = angle;
+      bullet.position.x = cannon_list[my_seat].position.x + Math.sin(bullet.direction) * 75;
+      bullet.position.y = cannon_list[my_seat].position.y + Math.cos(bullet.direction) * 75;
+      bullet.rotation = -bullet.direction + Math.PI;
+      bullet.animationSpeed = 0.05;
+      bullet.radius = CANNON_DATA[cannon_index][5];
+      bullet.play();
+      bullet_pool.push(bullet);
+      bullet_counter += 1;
+      bullet_container.addChild(bullet);
+    }
+  }
+
+  function hit(bullet, fish_key) { // called when a fish is hit, bullet already removed in the game loop
+    socket.emit(3, [bullet.key, fish_key]); // register bullet hit to server
+  }
+
+  function updateBarrel() { // player changes multiplier
+    cannon_index = Math.floor(cannon_multi_index / cannon_spread);
+    cannon_list[my_seat].textures = cannons[cannon_index];
+    cannon_multi_text_list[my_seat].text = cannon_multi_list[cannon_multi_index];
+    playSound('changebarrel');
+    socket.emit(1, cannon_multi_index);
+  }
+}();

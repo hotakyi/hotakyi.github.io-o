@@ -1,6 +1,13 @@
+/*
+ * Copyright (c) 2013 Thibaut Courouble
+ * http://www.cssflow.com
+ *
+ * Licensed under the MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
 html, body {
   /*min-height: 100%;*/
-  cursor: url('assets/graphics/crosshair.png') 64 64, default;
+  cursor: url('_assets/graphics/crosshair.png') 64 64, default;
 }
 
 body {
